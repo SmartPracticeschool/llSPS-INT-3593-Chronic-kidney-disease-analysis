@@ -1,0 +1,76 @@
+#headers{
+    width: 100%;
+    height: 10%;
+    background:rgb(2, 2, 71);
+    text-align: center;
+    padding-top: 22px;
+    font-size:30px ;
+    position: fixed;
+    opacity: 1.0;
+    color: white;
+    z-index: 10;
+
+}
+
+.form{
+    padding-top: 150px;
+    padding-left: 25%;
+    background:rgba(255, 255, 255, 0.281);
+    position: relative;
+    padding-bottom: 50px;
+    border: red;
+    box-shadow: teal;
+}
+
+.textarea{
+    width: 70%;
+    height: 8%;
+    position: relative;
+    background-color: white;
+    color: white;
+    
+}
+
+body{
+    background-image: url(https://www.cdc.gov/dotw/ckd/images/main_928px.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.container{
+    padding-left: 20%;
+    padding-right: 20%;
+    position: relative;
+}
+::-webkit-input-placeholder{
+    text-align: center;
+    color: navy;
+}
+.button{
+    width: 50%;
+    height: 5%;
+    color: navy;
+}
+
+.buttonwrapper{
+    margin-left: 15%;
+    }
+.elementwrapper{
+        color:white;
+        opacity: 1.0;
+    }
+.output{
+    padding-top:30px;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    background:rgb(2, 2, 71);
+    padding-bottom:40px ;
+
+}
+footer{
+    width: 100%;
+    height: 15%;
+
+}
